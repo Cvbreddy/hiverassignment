@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+data/archive/twcs/
+Hiver-support-agent-submission.zip
+reports/should_not_exist.json

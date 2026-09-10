@@ -1,0 +1,16 @@
+{
+  "n": 200,
+  "intent_accuracy": 1.0,
+  "macro_intent_recall": 1.0,
+  "escalation_rate": 0.895,
+  "escalation_precision_on_labeled": 1.0,
+  "confusion": {
+    "account_access->account_access": 2,
+    "billing_refund->billing_refund": 2,
+    "cancellation->cancellation": 3,
+    "delivery_tracking->delivery_tracking": 2,
+    "other->other": 174,
+    "product_information->product_information": 1,
+    "technical_problem->technical_problem": 16
+  }
+}

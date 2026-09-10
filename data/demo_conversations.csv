@@ -1,0 +1,10 @@
+text,intent,resolution,public_reply
+"Where is my order?",delivery_tracking,"Look up the order status and share tracking privately.","I’m sorry it’s taking longer than expected. Please DM your order number so we can check the tracking."
+"My package still has not arrived",delivery_tracking,"Look up the order status and share tracking privately.","I’m sorry it’s taking longer than expected. Please DM your order number so we can check the tracking."
+"I was charged twice",billing_refund,"Verify the duplicate charge and refund the extra payment.","I’m sorry about the duplicate charge. Please DM your order details so we can investigate securely."
+"Can I get a refund?",billing_refund,"Verify eligibility and refund the payment when policy allows.","Please DM your order details so we can check the refund options securely."
+"The app crashes on launch",technical_problem,"Ask for device/app version, then provide troubleshooting or escalate.","Sorry about that. Please DM your device and app version and we’ll help troubleshoot."
+"I cannot sign in",account_access,"Verify the account privately and start account recovery.","Sorry you’re having trouble signing in. Please DM us and we’ll help recover access securely."
+"How much does this cost?",product_information,"Share current pricing and availability.","Thanks for checking. Please see our current plans, or DM us if you need help choosing."
+"Please cancel my order",cancellation,"Confirm the order privately and cancel when it has not shipped.","Please DM your order number and we’ll check whether cancellation is still possible."
+"This is unacceptable and I want a manager",complaint,"Acknowledge the frustration and route to a specialist.","I’m sorry this has been frustrating. I’m routing this to a specialist who can help."
