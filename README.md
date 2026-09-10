@@ -4,7 +4,7 @@ This repo contains a runnable support agent for the selected `AppleSupport` bran
 
 ## Current status
 
-The repository is runnable, but the checked-in headline result is a **baseline smoke test**, not the final assignment evidence. The 160 labels in `data/golden.csv` are generated paraphrases, not hand-labeled real customer messages. Do not present the 92.5% number as a real-data result until `data/golden.csv` is replaced with reviewed examples from the selected brand.
+The repository is runnable, but the checked-in headline result is a **baseline smoke test**, not the final assignment evidence. The 200 labels in `data/golden.csv` are AI-assisted preliminary labels for real AppleSupport messages, not independent human ground truth. Do not present the reported metrics as final human-validated results until the labels are reviewed.
 
 ## Baseline result
 
